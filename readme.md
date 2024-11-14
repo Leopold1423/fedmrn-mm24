@@ -24,10 +24,11 @@ Please use the scripts to run the experiments, for example:
 ## Citation
 ```
 @inproceedings{li2024fedmrn,
-  title={Masked Random Noise for Communication Efficient Federaetd Learning},
-  author={Shiwei Li and Yingyi Cheng and Haozhao Wang and Xing Tang and Shijie Xu and Weihong Luo and Yuhua Li and Dugang Liu and Xiuqiang He and and Ruixuan Li},
-  booktitle={Proceedings of the 32nd ACM International conference on Multimedia},
-  pages={xxx--xxx},
-  year={2024}
+author = {Li, Shiwei and Cheng, Yingyi and Wang, Haozhao and Tang, Xing and Xu, Shijie and Luo, Weihong and Li, Yuhua and Liu, Dugang and He, Xiuqiang and Li, Ruixuan},
+title = {Masked Random Noise for Communication-Efficient Federated Learning},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia (MM 24)},
+pages = {3686–3694},
+numpages = {9},
+year = {2024},
 }
 ```
